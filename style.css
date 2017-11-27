@@ -168,7 +168,7 @@ footer a {
 .about-me a{
 	text-decoration: none !important;
 }
-.row-pic{
+.row-pic .col-md-4{
 	margin: 0 auto;
 	text-align: center;
 }
